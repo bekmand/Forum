@@ -8,5 +8,5 @@ package model;
  * To change this template use File | Settings | File Templates.
  */
 public class forum {
-
+       private int app;
 }
